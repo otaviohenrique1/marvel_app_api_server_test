@@ -1,0 +1,30 @@
+{
+  "name": "marvel_app_api_server_test",
+  "version": "1.0.0",
+  "description": "marvel_app_api_server_test.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Typescript",
+    "Express"
+  ],
+  "author": "Otavio Henrique",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.10",
+    "@types/express": "^4.17.12",
+    "@types/node": "^8.0.29",
+    "ts-node": "3.3.0",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "3.3.3333"
+ },
+ "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1"
+ }
+}
