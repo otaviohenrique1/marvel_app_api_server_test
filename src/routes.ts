@@ -4,10 +4,10 @@ import ComicController from "./controllers/ComicController";
 
 const routes = Router();
 
-routes.get('/quadrinho', ComicController.index);
+routes.get('/quadrinhos', ComicController.index);
 routes.get('/quadrinhos/:id', ComicController.show);
 
-routes.get('/personagem', CharacterController.index);
+routes.get('/personagens', CharacterController.index);
 routes.get('/personagens/:id', CharacterController.show);
 
 export default routes;

@@ -1,11 +1,11 @@
-const avengers = "../../services/api_teste/images/quadrinhos/avengers_vol_1_1.jpg";
-const blackWidow = "../../services/api_teste/images/quadrinhos/tales_of_suspense_vol_1_52.jpg";
-const captainAmerica = "../../services/api_teste/images/quadrinhos/captain_america_comics_vol_1_1.jpg";
-const guardiansOfTheGalaxy = "../../services/api_teste/images/quadrinhos/guardians_of_the_galaxy_vol_2_1.jpg";
-const ironMan = "../../services/api_teste/images/quadrinhos/tales_of_suspense_vol_1_39.jpg";
-const spiderMan = "../../services/api_teste/images/quadrinhos/amazing_fantasy_vol_1_15.jpg";
-const wolverine = "../../services/api_teste/images/quadrinhos/incredible_hulk_vol_1_181.jpg";
-const xMen = "../../services/api_teste/images/quadrinhos/x-men_vol_1_1.jpg";
+const avengers = "../../services/api_teste/images/quadrinhos/avengers_vol_1_1";
+const blackWidow = "../../services/api_teste/images/quadrinhos/tales_of_suspense_vol_1_52";
+const captainAmerica = "../../services/api_teste/images/quadrinhos/captain_america_comics_vol_1_1";
+const guardiansOfTheGalaxy = "../../services/api_teste/images/quadrinhos/guardians_of_the_galaxy_vol_2_1";
+const ironMan = "../../services/api_teste/images/quadrinhos/tales_of_suspense_vol_1_39";
+const spiderMan = "../../services/api_teste/images/quadrinhos/amazing_fantasy_vol_1_15";
+const wolverine = "../../services/api_teste/images/quadrinhos/incredible_hulk_vol_1_181";
+const xMen = "../../services/api_teste/images/quadrinhos/x-men_vol_1_1";
 
 const api_teste_2 = [
   {
